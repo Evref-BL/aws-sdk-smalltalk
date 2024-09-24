@@ -1,1 +1,1 @@
-Package { #name : #BaselineOfAWS }
+Package { #name : 'BaselineOfAWS' }
